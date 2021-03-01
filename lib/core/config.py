@@ -8,8 +8,8 @@ import six
 import yaml
 import copy
 import numpy as np
-from lib.utils.collections import AttrDict
-from lib.utils.misc import get_run_name
+from DiverseDepth.lib.utils.collections import AttrDict
+from DiverseDepth.lib.utils.misc import get_run_name
 from ast import literal_eval
 
 __C = AttrDict()
